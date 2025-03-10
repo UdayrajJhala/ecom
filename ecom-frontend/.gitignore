@@ -23,3 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 .node_modules
+
+ecom-backend/src/main/resource/application.properties
