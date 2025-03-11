@@ -2,7 +2,7 @@
 
 
 before running:
-- create src/main/resources/application.properties
+- create ecom-backend/src/main/resources/application.properties
 - add:
   ```
   spring.application.name=jobAppREST
